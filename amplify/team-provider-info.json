@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-realstate-staging-215201-authRole",
+      "UnauthRoleArn": "arn:aws:iam::022696952742:role/amplify-realstate-staging-215201-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::022696952742:role/amplify-realstate-staging-215201-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-realstate-staging-215201-deployment",
+      "UnauthRoleName": "amplify-realstate-staging-215201-unauthRole",
+      "StackName": "amplify-realstate-staging-215201",
+      "StackId": "arn:aws:cloudformation:us-east-2:022696952742:stack/amplify-realstate-staging-215201/e56de0c0-ef7c-11ed-9b50-02083fdf7e75",
+      "AmplifyAppId": "d14v2cbxip2bfo"
+    }
+  }
+}
